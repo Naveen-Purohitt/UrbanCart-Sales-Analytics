@@ -24,6 +24,10 @@ The objective of this project is to transform raw sales data into an interactive
 - Delivered Orders: 3,030
 - Returned Orders: 991
 
+## Dashboard Preview
+
+![UrbanCart Sales Dashboard](UrbanCart_Dashboard.png)
+
 ## Dashboard Analysis
 
 The dashboard includes:
