@@ -1,4 +1,4 @@
-# UrbanCart Sales Analytics Dashboard
+# UrbanCart Sales Analytics Dashboard (Excel)
 
 ## Project Overview
 
